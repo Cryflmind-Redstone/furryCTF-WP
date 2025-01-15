@@ -1,0 +1,1 @@
+cecg.zip文件解压放到roms/文件下

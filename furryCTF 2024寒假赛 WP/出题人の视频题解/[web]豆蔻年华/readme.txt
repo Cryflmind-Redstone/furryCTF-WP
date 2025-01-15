@@ -1,0 +1,1 @@
+https://github.com/vulhub/vulhub/blob/master/redis/CVE-2022-0543/README.zh-cn.md
